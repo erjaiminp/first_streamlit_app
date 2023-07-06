@@ -1,4 +1,4 @@
 import streamlit
 
 streamlit.title('Hello World')
-streamlit.main('This is my First Program')
+streamlit.body('This is my First Program')
